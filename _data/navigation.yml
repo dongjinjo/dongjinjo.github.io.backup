@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Archive"
+    url: /archive/
+  - title: "Category"
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
