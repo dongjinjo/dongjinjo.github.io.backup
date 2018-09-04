@@ -8,10 +8,7 @@ toc: true
 
 ## 현상
 Item(`log`) 등록 후 Permission Denied 오류 발생 
-<figure>
-<img src="/assets/images/2018-09-04-zabbix-permission-denied-03.png">
-</figure>
-
+![img01]({{ "/assets/images/2018-09-04-zabbix-permission-denied-03.png" | absolute_url }})
 
 ## 원인
 `zabbix` 계정이 해당 file에 접근 할 수 없어 Permission Denied 오류 발생.
