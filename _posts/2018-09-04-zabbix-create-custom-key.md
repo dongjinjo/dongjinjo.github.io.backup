@@ -1,5 +1,5 @@
 ---
-title:  "[zabbix] 신규 Item Key 생성"
+title:  "[zabbix] Custom Key 생성 방법(UserParameter)"
 tags: zabbix mysql monitoring
 categories: zabbix
 toc: true
