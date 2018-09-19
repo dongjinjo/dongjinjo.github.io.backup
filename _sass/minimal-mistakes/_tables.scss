@@ -19,6 +19,10 @@ thead {
   border-bottom: 2px solid mix(#000, $border-color, 25%);
 }
 
+tbody {
+  background-color: $background-color;
+}
+
 th {
   padding: 0.5em;
   font-weight: bold;
